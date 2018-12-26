@@ -1,0 +1,5 @@
+﻿  VisualGDB: Run "C:\SysGCC\arm-eabi\bin\make.exe  CONFIG=Debug -j4" in directory "D:\三小源代码\SZGFly\SZGFly" on local computer
+  make: Nothing to be done for `all'.
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 31KB out of 1024KB (3%)
+  Used RAM: 1756 bytes out of 192KB (0%)
